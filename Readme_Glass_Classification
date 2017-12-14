@@ -1,0 +1,9 @@
+This Sub-repository contains the Machine Learning algorithm to achieve the following tasks
+
+1. This has some exploratory data analysis and visualizations
+2. A ML model is built which can predict the *Refractive Index* of a Glass. The model is trained in such a way that it learns from
+various glass components and it's types. This predicts the numerical or decimal data and this model is developed by using Linear
+regression method. The predicting ability of the model is pretty good. 
+3. The type of glass falls under six categories. A model is built using Logical Regression techinique. 
+The alogorithm merely uses Logical Regression technique and since there are six categories, the predicting ability of the model
+it slightly poor. However using some scikit learn techniques, this model can be optimized so that it can predict significantly good
